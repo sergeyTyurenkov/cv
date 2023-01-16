@@ -31,7 +31,7 @@ body {
 }
 
 .links {
-  width: 360px;
+  width: 320px;
   margin-bottom: 40px;
 }
 
@@ -72,9 +72,9 @@ body {
   flex-direction: row;
   align-items: flex-start;
   padding: 0px 0px 10px;
-  gap: 30px;
+  gap: 0;
   border-bottom: 1px solid hsla(220, 18%, 87%, 1);
-  width: 300px;
+  width: 285px;
 }
 
 .links__link:last-child {
